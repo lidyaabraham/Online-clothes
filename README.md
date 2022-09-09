@@ -6,6 +6,10 @@ LIDYA ABRAHAM
 An online application that help users to order clothes at the comfort of their home or at any place at an affordable price.they can receive deliveries of the clothes they ordered.
 # MVP
 Purchase page 
+# technology used
+-HTML 
+-JS 
+-CSS
 
 MIT License
 
