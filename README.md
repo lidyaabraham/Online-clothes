@@ -25,6 +25,6 @@ Footer
 Footer navigation
 Terms
 Privacy
-Security
+
 
 
