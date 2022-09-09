@@ -3,7 +3,7 @@ ONLINE CLOTHES
 # PROJECT OWNER
 LIDYA ABRAHAM
 # project description
-
+Creat online application that help users to order clothes at the comfort of their home or at any place at an affordable price.they can receive deliveries of the clothes they ordered.
 MIT License
 
 Copyright (c) 2022 lidyaabraham
