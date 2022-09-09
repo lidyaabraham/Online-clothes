@@ -26,5 +26,5 @@ Footer navigation
 Terms
 Privacy
 Security
-Status
+
 
