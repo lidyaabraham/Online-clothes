@@ -27,4 +27,4 @@ Terms
 Privacy
 Security
 Status
-Docs
+
