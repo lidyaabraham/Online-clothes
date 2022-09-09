@@ -2,6 +2,7 @@
 ONLINE CLOTHES
 # PROJECT OWNER
 LIDYA ABRAHAM
+# project description
 
 MIT License
 
