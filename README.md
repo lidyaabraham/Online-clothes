@@ -4,6 +4,7 @@ ONLINE CLOTHES
 LIDYA ABRAHAM
 # project description
 An online application that help users to order clothes at the comfort of their home or at any place at an affordable price.they can receive deliveries of the clothes they ordered.
+Purchase page 
 MIT License
 
 Copyright (c) 2022 lidyaabraham
